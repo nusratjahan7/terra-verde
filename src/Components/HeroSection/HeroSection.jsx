@@ -32,7 +32,7 @@ const HeroSection = () => {
                     initial={{opacity:0, y:30}}
                     animate={{opacity: 1, y: 0}}
                     transition={{duration: 0.8, delay:0.3}}
-                    className='text-lg text-(--text2) mb-9 max-w-lg'>
+                    className='text-lg text-[#afb1b4] mb-9 max-w-lg'>
                         We combine cutting-edge technology with time-honored farming practices to deliver sustainable, high-yield agricultural solutions for the modern world.
                     </motion.p>
 
