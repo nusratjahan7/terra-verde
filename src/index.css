@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&display=swap');
+
+:root {
+  /* Primary Colors */
+  --green: #2F6B4F;
+  --green2: #6FAF7A;
+  --accent: #e0c133;
+
+  /* Background Colors */
+  --bg-main: #F5F4F1;
+  --bg-white: #FFFFFF;
+
+  /* Text Colors */
+  --text: #1F2A2E;
+  --text2: #6B7280;
+
+  /* Input Fields */
+  --input-bg: #F9FAFB;
+  --border-color: #E5E7EB;
+  --placeholder-color: #9CA3AF;
+
+  /* Button */
+  --button-bg: #2F6B4F;
+  --button-text: #FFFFFF;
+
+}
+body{
+     background: var(--bg-main);
+    font-family: "Roboto", sans-serif;
+}
+.font1{
+    font-family: "Libre Baskerville", serif;
+}
