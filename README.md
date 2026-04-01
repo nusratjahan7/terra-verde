@@ -1,16 +1,37 @@
-# React + Vite
+# 🌿 TerraVerde — Premium Agricultural Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project Name
+TerraVerde
 
-Currently, two official plugins are available:
+## 📖 Description
+TerraVerde is a premium agricultural website with a cinematic and modern design. It presents sustainable farming solutions through smooth animations, clean UI, and a nature-inspired color palette. The project focuses on combining storytelling with an engaging user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Technologies Used
+- React
+- Tailwind CSS
+- JavaScript (ES6+)
+- Framer Motion
 
-## React Compiler
+## ✨ Features
+- Cinematic hero section with aerial farmland visuals  
+- Story-driven About section with organic layout  
+- 6-card services grid with clean and responsive design  
+- Dark-themed technology showcase section  
+- Smooth scroll animations using Framer Motion  
+- Contact form with polished footer  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🎯 What I Focused On
+- Premium UI/UX design  
+- Smooth animation and transitions  
+- Consistent earthy color palette (sage, wheat, forest)  
 
-## Expanding the ESLint configuration
+## 📚 What I Learned
+- Using Framer Motion for animations  
+- Improving UI storytelling techniques  
+- Structuring scalable React components  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔗 Live Demo
+https://terra-verde-44mqbuk9o-nusratjahan7s-projects-559ddc81.vercel.app/
+
+## 📂 GitHub Repository
+https://github.com/nusratjahan7/terra-verde
