@@ -17,7 +17,7 @@ const ContactSection = () => {
                     initial={{ opacity: 0, x: -30 }}
                     whileInView={{ opacity: 1, x: 0 }}
                     viewport={{ once: true }}
-                    transition={{ duration: 0.9 }}
+                    transition={{ duration: 1.1 }}
                     className='space-y-4'
                     >
                         <p className='text-sm text-gray-600 uppercase tracking-wider'>Get In Touch</p>
@@ -40,10 +40,10 @@ const ContactSection = () => {
                         </motion.div>
 
                         <motion.form 
-                        initial={{ opacity: 0, x: -30 }}
+                        initial={{ opacity: 0, x: 30 }}
                         whileInView={{ opacity: 1, x: 0 }}
                         viewport={{ once: true }}
-                        transition={{ duration: 0.9 }}
+                        transition={{ duration: 1.1 }}
                         className="bg-[#d2cfc921] rounded-2xl p-8 md:p-10 border border-[#5d5f6325] space-y-6"
                         >
                             <div className="grid sm:grid-cols-2 gap-6">

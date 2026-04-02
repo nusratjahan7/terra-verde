@@ -1,6 +1,7 @@
 import './App.css'
 import AboutSection from './Components/AboutSection/AboutSection'
 import ContactSection from './Components/ContactSection/ContactSection'
+import Footer from './Components/Footer/Footer'
 import HeroSection from './Components/HeroSection/HeroSection'
 import Navbar from './Components/Navbar/Navbar'
 import ServiceSection from './Components/ServiceSection/ServiceSection'
@@ -22,6 +23,9 @@ function App() {
       <TechnologySection/>
       <ContactSection/>
     </main>
+    <footer>
+      <Footer/>
+    </footer>
     </>
   )
 }
