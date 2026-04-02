@@ -67,7 +67,7 @@ const ContactSection = () => {
                                     placeholder="nusrat@example.com" />
                                 </div>
                                  <div>
-                                    <label className="font-medium text-sm text-gray-800 mb-2 block"> Last Name</label>
+                                    <label className="font-medium text-sm text-gray-800 mb-2 block">Message </label>
                                     <textarea rows={4}
                                     className="text-sm w-full px-4 py-3 rounded-xl bg-(--bg-main) text-gray-900  border border-[#5d5f6325] focus:outline-none focus:ring-2 focus:ring-(--green)/30"
                                     placeholder="Tell us about your farming needs..." />

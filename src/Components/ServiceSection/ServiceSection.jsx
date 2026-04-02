@@ -37,7 +37,7 @@ const services = [
 
 const ServiceSection = () => {
     return (
-        <section id='service' className='py-24 md:py-32 bg-[#d2cfc921] '>
+        <section id='services' className='py-24 md:py-32 bg-[#d2cfc921] '>
             <div className='w-11/12 mx-auto'>
                 <motion.div
                 initial={{opacity: 0, y: 30}}
