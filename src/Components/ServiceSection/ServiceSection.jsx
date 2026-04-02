@@ -44,9 +44,9 @@ const ServiceSection = () => {
                 whileInView={{opacity: 1, y: 0}}
                 viewport={{once: true}}
                 transition={{duration: 1.1}}
-                className='text-center max-w-2xl mx-auto mb-16 space-y-3'>
+                className='text-center mx-auto mb-16 space-y-3'>
                     <p className='text-sm text-(--green) uppercase tracking-wider'>Our Service</p>
-                    <h2 className='text-4xl leading-12 md:text-5xl font-bold text-gray-800 font1'>Comprehensive <span className='italic text-(--green)'>Agricultural</span><br /> Solutions</h2>
+                    <h2 className='text-4xl leading-15 md:text-5xl font-bold text-gray-800 font1'>Comprehensive <span className='italic text-(--green)'>Agricultural</span> <br /> Solutions</h2>
                     <p className='text-md text-(--text2) leading-7'>From seed to harvest, we provide end-to-end services designed to maximize yield while minimizing environmental impact.</p>
                 </motion.div>
                 <div className='grid md:grid-cols-2 lg:grid-cols-3 gap-8'>

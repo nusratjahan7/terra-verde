@@ -4,10 +4,9 @@ import HeroSection from './Components/HeroSection/HeroSection'
 import Navbar from './Components/Navbar/Navbar'
 import ServiceSection from './Components/ServiceSection/ServiceSection'
 import StatsBar from './Components/StatsBar/StatsBar'
+import TechnologySection from './Components/TechnologySection/TechnologySection'
 
 function App() {
-
-
   return (
     <>
     <header> 
@@ -19,6 +18,7 @@ function App() {
       <StatsBar></StatsBar>
       <AboutSection></AboutSection>
       <ServiceSection/>
+      <TechnologySection/>
     </main>
     </>
   )
